@@ -1,0 +1,16 @@
+{
+  "name": "3-todo-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.89.1",
+    "vite": "^6.3.5"
+  }
+}
